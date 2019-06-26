@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scm-loader6.iml" filepath="$PROJECT_DIR$/.idea/modules/scm-loader6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scm-loader6_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scm-loader6_main.iml" group="scm-loader6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scm-loader6_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scm-loader6_test.iml" group="scm-loader6" />
+    </modules>
+  </component>
+</project>
